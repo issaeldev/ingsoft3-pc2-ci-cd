@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/issaeldev/ingsoft3-pc2-ci-cd/issues"
   },
-  "homepage": "https://github.com/issaeldev/ingsoft3-pc2-ci-cd#readme"
+  "homepage": "https://github.com/issaeldev/ingsoft3-pc2-ci-cd#readme",
+  "devDependencies": {
+    "jest": "^30.2.0"
+  }
 }
