@@ -1,0 +1,21 @@
+{
+  "name": "ingsoft3-pc2-ci-cd",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/issaeldev/ingsoft3-pc2-ci-cd.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/issaeldev/ingsoft3-pc2-ci-cd/issues"
+  },
+  "homepage": "https://github.com/issaeldev/ingsoft3-pc2-ci-cd#readme"
+}
